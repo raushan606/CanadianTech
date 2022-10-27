@@ -23,21 +23,7 @@ Inspiration for this came from seeing j-delaney [easy-application](https://githu
 ## The List
 <!-- BEGIN DATA -->
 | Company Name | Location |
-| --- | --- |
-| [1QBit](http://1qbit.com/) | Vancouver, BC |
-| [360insights](https://360insights.com/) | Whitby, ON |
-| [360pi](https://www.360pi.com/careers) | Ottawa, ON |
-| [500px Inc.](https://about.500px.com/) | Toronto, ON |
-| [A Thinking Ape](http://www.athinkingape.com/) | Vancouver, BC |
-| [AdGear](http://adgear.com/) | Montreal, QB |
-| [Aeryon Labs](https://www.aeryon.com/careers) | Waterloo, ON |
-| [Affinity](http://www.affsys.com/company/careers/) | Mississauga, ON |
-| [airG](http://corp.airg.com/) |  Vancouver, BC |
-| [Algolux](https://algolux.com/) | Montreal, QB |
-| [Amazon Toronto](https://www.amazon.jobs/en/locations/toronto-canada?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&location%5B%5D=toronto-canada&cache) | Toronto, ON |
-| [Amazon Vancouver](https://www.amazon.jobs/location/vancouvervictoria-canada?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&location%5B%5D=vancouvervictoria-canada&cache) | Vancouver, BC |
-| [Amdocs](https://jobs.amdocs.com/search/?q=&locationsearch=canada) | Ottawa, Toronto, Montreal |
-| [Anahita Tribe](https://www.getanahita.com/) | Vancouver, BC |
+
 | [Analyze Re](http://analyzere.com/) |  Halifax, NS
 | [AppDirect](https://careers.appdirect.com) | Montreal, QB |
 | [AppNeta](https://www.appneta.com/about/careers/) | Vancouver, BC |
@@ -118,13 +104,6 @@ Inspiration for this came from seeing j-delaney [easy-application](https://githu
 | [Top Hat](https://tophat.com/work-with-us/) | Toronto, ON |
 | [Uber](https://www.uber.com/en-CA/careers/) | Toronto, ON |
 | [Ubisoft](https://www.ubisoft.com/en-US/careers/experience.aspx) | Montreal, QB |
-| [Via Science](http://www.viascience.com/careers/) | Montreal, QB |
 | [Vidyard](https://www.vidyard.com/) | Kitchener, ON |
 | [Vigilant](http://www.vigilantglobal.com/en/careers) | Montreal, QB |
 | [Visier Inc](https://www.visier.com/about/careers/) | Vancouver, BC |
-| [Wealthsimple](https://www.wealthsimple.com/en-ca/work-with-us) | Toronto, ON |
-| [Wiivv](https://wiivv.com/) | Vancouver, BC |
-| [wrnch](https://wrnch.com/jobs/) | Montreal, QB |
-| [XIRIS](http://www.xiris.com/about-us/careers/) | Burlington, ON |
-| [Zoocasa](https://www.zoocasa.com/company/careers) | Toronto, ON |
-| [Zoom.ai](https://zoom.ai/) | Toronto, ON |
