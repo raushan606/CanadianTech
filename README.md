@@ -24,9 +24,7 @@ Inspiration for this came from seeing j-delaney [easy-application](https://githu
 <!-- BEGIN DATA -->
 | Company Name | Location |
 
-| [Analyze Re](http://analyzere.com/) |  Halifax, NS
-| [AppDirect](https://careers.appdirect.com) | Montreal, QB |
-| [AppNeta](https://www.appneta.com/about/careers/) | Vancouver, BC |
+| []() | |
 | [Askuity](https://www.askuity.com/company/hiring/) | Toronto, ON |
 | [AxiomZen](https://www.axiomzen.co/careers) | Vancouver, BC |
 | [Bank of Canada](http://www.bankofcanada.ca/careers/) | Ottawa, ON |
